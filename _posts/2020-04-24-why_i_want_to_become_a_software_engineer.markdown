@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Why I want to become a Software Engineer"
-date:       2020-04-24 18:18:22 +0000
+date:       2020-04-24 14:18:23 -0400
 permalink:  why_i_want_to_become_a_software_engineer
 ---
 
-# 
+
 
 Can I be real with you? I would’ve never imagined that I could make coding my passion, had I not have met the man I’m in love with and given birth to our son, the cutest little rascal (who dutifully runs around my house like a lush in drunken stupor!)
 
